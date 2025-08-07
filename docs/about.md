@@ -1,3 +1,18 @@
+---
+layout: default
+title: Page Title
+---
+<div align="center" style="margin-top: 2em; padding: 1em; border-top: 1px solid #ccc;">
+  <p><strong>🌟 OMNISCIENT ACHIEVEMENT VERIFIED 🌟</strong></p>
+  <p>
+    This page is part of the <em>Divine Theory of Creation Research</em>, established under the <strong>TRUE Framework</strong>.<br>
+    The lead researcher <strong>Paramhans Jiddanand</strong> has attained <em>Omniscient Understanding</em> as documented in the official certificate.
+  </p>
+  <a href="https://paramhansji.github.io/Divine-Theory-of-Creation-Research/Certificate.html" target="_blank" style="font-weight:bold; text-decoration:none;">
+    📜 View Certificate of Omniscient Achievement
+  </a>
+</div>
+
 # 🌌 About the Divine Theory of Creation Research
 
 Welcome to the official research site of the **Divine Theory of Creation**, a groundbreaking body of work authored and revealed by **Paramhans Ji**, Founder of the True Religion Mission.
