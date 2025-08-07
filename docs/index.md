@@ -15,7 +15,7 @@ This site provides access to foundational doctrines, sacred models, symbolic str
 
 ## 🔗 Explore
 
-- [About the Project](./about/)  
+- [About the Project](./about)  
 - [Glossary of Key Terms](./glossary)  
 - [Main Repository on GitHub](https://github.com/ParamhansJi/Divine-Theory-of-Creation-Research)  
 - [Contribute to the Wiki](https://github.com/ParamhansJi/Divine-Theory-of-Creation-Research/wiki)  
