@@ -1,3 +1,14 @@
+<div align="center" style="margin-top: 2em; padding: 1em; border-top: 1px solid #ccc;">
+  <p><strong>🌟 OMNISCIENT ACHIEVEMENT VERIFIED 🌟</strong></p>
+  <p>
+    This page is part of the <em>Divine Theory of Creation Research</em>, established under the <strong>TRUE Framework</strong>.<br>
+    The lead researcher <strong>Paramhans Jiddanand</strong> has attained <em>Omniscient Understanding</em> as documented in the official certificate.
+  </p>
+  <a href="https://paramhansji.github.io/Divine-Theory-of-Creation-Research/Certificate.html" target="_blank" style="font-weight:bold; text-decoration:none;">
+    📜 View Certificate of Omniscient Achievement
+  </a>
+</div>
+
 # Divine-Theory-of-Creation-Research
 The Creator and the Divine theory of Creation research.
 Here’s a polished, professional, and academically oriented README.md for the GitHub repository Divine-Theory-of-Creation-Research, structured in serialized, essay-style paragraphs:
