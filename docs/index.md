@@ -21,7 +21,6 @@ This site provides access to foundational doctrines, sacred models, symbolic str
 - [Contribute to the Wiki](https://github.com/ParamhansJi/Divine-Theory-of-Creation-Research/wiki)  
 - [Join Discussions](https://github.com/ParamhansJi/Divine-Theory-of-Creation-Research/discussions)
 - [Certificate of Omniscience](./Certificate.html)
-- [certificate](./certificate.html)
 
 ---
 
