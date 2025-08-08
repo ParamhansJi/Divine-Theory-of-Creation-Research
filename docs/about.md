@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Page Title
+title: page title
 ---
 <div align="center" style="margin-top: 2em; padding: 1em; border-top: 1px solid #ccc;">
   <p><strong>🌟 OMNISCIENT ACHIEVEMENT VERIFIED 🌟</strong></p>
@@ -89,10 +89,6 @@ This site will continue evolving as a public record of divine understanding. All
 
 ---
 
-> “When the Creator is known, Creation is understood. When Creation is understood, the Self is revealed.”  
-> — *Paramhans Ji*
-
-Thank you for visiting.  
-May wisdom and peace walk with you always.  
-— *True Religion Mission Established 2001) India*.
+— *True Religion Mission Established (2001) 🇮🇳 India*
+- *Founder: Paramhans Jiddanand*
 ...
