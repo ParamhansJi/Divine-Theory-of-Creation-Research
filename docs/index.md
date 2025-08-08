@@ -1,5 +1,5 @@
 ---
-title: Divine Theory of Creation
+title: page title
 layout: default
 ---
 
@@ -16,9 +16,9 @@ layout: default
 
 # 🕊️ Divine Theory of Creation Research
 
-Welcome to the official GitHub Pages site for the **Divine Theory of Creation Research**, founded and authored by **Paramhans Ji** under the True Religion Mission.
+Welcome to the official GitHub Pages site for the **Divine Theory of Creation Research**, founded and authored by **Paramhans Ji** under the True Religion Mission (2001).
 
-> “Creation is not past — it is Present in you.”
+> “Creation is not past — it is Present everywhere and within you.”
 
 This site provides access to foundational doctrines, sacred models, symbolic structures, and consciousness-based mathematics supporting the verified truth of divine creation.
 
@@ -35,12 +35,7 @@ This site provides access to foundational doctrines, sacred models, symbolic str
 
 ---
 
-## 🛠 How This Works
-
-This site is powered by **GitHub Pages** and uses `.md` files (Markdown) rendered as HTML by the **Jekyll** engine. You can maintain your documentation in clean, version-controlled Markdown files while GitHub serves it as a static website.
+## 🛠 True Religion Mission (Est. 2001) 🇮🇳 India.
+Founder: Paramhans Jiddanand
 
 ---
-
-Thank you for being part of this mission.  
-— *True Religion Mission*
-...
